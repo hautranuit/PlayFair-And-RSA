@@ -1,0 +1,16 @@
+E:\NAM3\AN_TOAN_MANG_MAY_TINH\DO_AN\PlayFair\PlayFair\bin\Debug\net8.0-windows\PlayFair.exe
+E:\NAM3\AN_TOAN_MANG_MAY_TINH\DO_AN\PlayFair\PlayFair\bin\Debug\net8.0-windows\PlayFair.deps.json
+E:\NAM3\AN_TOAN_MANG_MAY_TINH\DO_AN\PlayFair\PlayFair\bin\Debug\net8.0-windows\PlayFair.runtimeconfig.json
+E:\NAM3\AN_TOAN_MANG_MAY_TINH\DO_AN\PlayFair\PlayFair\bin\Debug\net8.0-windows\PlayFair.dll
+E:\NAM3\AN_TOAN_MANG_MAY_TINH\DO_AN\PlayFair\PlayFair\bin\Debug\net8.0-windows\PlayFair.pdb
+E:\NAM3\AN_TOAN_MANG_MAY_TINH\DO_AN\PlayFair\PlayFair\obj\Debug\net8.0-windows\PlayFair.Form1.resources
+E:\NAM3\AN_TOAN_MANG_MAY_TINH\DO_AN\PlayFair\PlayFair\obj\Debug\net8.0-windows\PlayFair.csproj.GenerateResource.cache
+E:\NAM3\AN_TOAN_MANG_MAY_TINH\DO_AN\PlayFair\PlayFair\obj\Debug\net8.0-windows\PlayFair.GeneratedMSBuildEditorConfig.editorconfig
+E:\NAM3\AN_TOAN_MANG_MAY_TINH\DO_AN\PlayFair\PlayFair\obj\Debug\net8.0-windows\PlayFair.AssemblyInfoInputs.cache
+E:\NAM3\AN_TOAN_MANG_MAY_TINH\DO_AN\PlayFair\PlayFair\obj\Debug\net8.0-windows\PlayFair.AssemblyInfo.cs
+E:\NAM3\AN_TOAN_MANG_MAY_TINH\DO_AN\PlayFair\PlayFair\obj\Debug\net8.0-windows\PlayFair.csproj.CoreCompileInputs.cache
+E:\NAM3\AN_TOAN_MANG_MAY_TINH\DO_AN\PlayFair\PlayFair\obj\Debug\net8.0-windows\PlayFair.dll
+E:\NAM3\AN_TOAN_MANG_MAY_TINH\DO_AN\PlayFair\PlayFair\obj\Debug\net8.0-windows\refint\PlayFair.dll
+E:\NAM3\AN_TOAN_MANG_MAY_TINH\DO_AN\PlayFair\PlayFair\obj\Debug\net8.0-windows\PlayFair.pdb
+E:\NAM3\AN_TOAN_MANG_MAY_TINH\DO_AN\PlayFair\PlayFair\obj\Debug\net8.0-windows\PlayFair.genruntimeconfig.cache
+E:\NAM3\AN_TOAN_MANG_MAY_TINH\DO_AN\PlayFair\PlayFair\obj\Debug\net8.0-windows\ref\PlayFair.dll
